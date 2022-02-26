@@ -7,7 +7,7 @@ metadata:
        version: v1
 spec:
    containers:
-   - name: myapp
+   - name: sample-ctr
      image: sirishadevops/deploy:v1
      ports:
      - containerPort: 80
